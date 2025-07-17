@@ -1,0 +1,1 @@
+python manage.py runserver 192.168.31.144:9000
